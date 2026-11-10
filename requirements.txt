@@ -1,5 +1,5 @@
 boto3==1.38.17
-fsspec==2025.5.1
+fsspec==2026.6.0
 numpy<2
 pandas==2.2.3
 pyarrow==20.0.0
